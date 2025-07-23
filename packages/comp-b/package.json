@@ -1,0 +1,12 @@
+{
+  "name": "comp-b",
+  "version": "0.1.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "dependencies": {
+    "comp-c": "^0.1.0"
+  }
+}
